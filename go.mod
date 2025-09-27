@@ -5,6 +5,7 @@ go 1.25.0
 require (
 	github.com/gin-gonic/gin v1.11.0
 	github.com/go-redis/redis/v8 v8.11.5
+	github.com/itchyny/base58-go v0.2.2
 	github.com/stretchr/testify v1.11.1
 )
 
